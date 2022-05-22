@@ -1,5 +1,5 @@
 # Topic of the week
-### Optionals
+### Optionals and Stream Basics
 ---
 1.
 2.
